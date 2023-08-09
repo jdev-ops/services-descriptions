@@ -1,4 +1,4 @@
 package com
 
 trait Descriptor:
-    val description: String
+    val description: Int
